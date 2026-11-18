@@ -10,8 +10,7 @@ This guide walks through the process of converting a 2D image into multi-color 3
 - HueForge software
 - Bambu Studio
 - PLA filament in multiple colors
-- A photograph or digital illustration
-
+- A photograph or digital illustration 
 ## Step 1: Choose Your Image
 
 Choose a clear image with good contrast and recognizable details.
